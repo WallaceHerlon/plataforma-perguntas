@@ -2,7 +2,7 @@
 
 Projeto de perguntas e respostas criado durante as aula NodeJs da [Udemy](https://www.udemy.com/course/formacao-nodejs/)
 
-Colocando em prática a criação de um site de pergunta e resposta:
+Colocando em prática a criação de um site de perguntas e respostas:
 * Node.js permite a execução de códigos Javascript fora de um navegador web.
 * Express framework que facilita o desenvolvimento de aplicações, fornece recursos mínimos para construção de servidores web.
 * EJS é uma engine de visualização, com ele conseguimos de uma maneira fácil transportar dados do back-end para o front-end.
@@ -13,15 +13,15 @@ Colocando em prática a criação de um site de pergunta e resposta:
 
 Página inicial com perguntas para serem respondidas
 
-![Preview](https://github.com/WallaceHerlon/plataforma-perguntas/to-readme/pergunta.png?raw=true)
+<img src="to-readme/pergunta.png">
 
 Para realizar perguntas
 
-![Preview](https://github.com/WallaceHerlon/plataforma-perguntas/to-readme/perguntar.png?raw=true)
+<img src="to-readme/perguntar.png">
 
 Perguntas respondidas
 
-![Preview](https://github.com/WallaceHerlon/plataforma-perguntas/to-readme/respondendo.png?raw=true)
+<img src="to-readme/respondendo.png">
 
 
 
